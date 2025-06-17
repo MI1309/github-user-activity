@@ -4,9 +4,7 @@ A simple Python script to fetch and display recent public GitHub activity (like 
 
 ---
 
-## 🔗 Project URL
-
-[https://github.com/MI1309/github-user-activity](https://github.com/MI1309/github-user-activity)
+sample solution for the [https://github.com/MI1309/github-user-activity](https://github.com/MI1309/github-user-activity) challenge from roadmap.sh
 
 
 ## 📦 Requirements
