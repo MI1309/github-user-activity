@@ -1,11 +1,34 @@
-# Github User Activity
+# GitHub User Activity
 
 A simple Python script to fetch and display recent public GitHub activity (like pushes, stars, forks, etc) for a given username.
-___
 
-Requirements : requirements.txt
+---
+
+## 📦 Requirements
+
+- Python 3.11+
+- Install dependencies via:  
+  ```bash
+  pip install -r requirements.txt
 
 
-1. cloning project : git clone https://github.com/mi1309/github-user-activity
-2. Make sure installed python=3.11 and install requirements
-3. running scripts with python main.py <user github>
+🚀 Getting Started
+
+    Clone the repository:
+
+git clone https://github.com/mi1309/github-user-activity
+cd github-user-activity
+
+Make sure Python 3.11 is installed, then install the requirements:
+
+pip install -r requirements.txt
+
+Run the script:
+
+    python main.py <github-username>
+
+📁 Example
+
+python main.py torvalds
+
+This will show recent activities like commits, starred repositories, etc.
