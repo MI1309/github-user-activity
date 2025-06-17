@@ -1,4 +1,7 @@
-Github User Activity
+# Github User Activity
+
+A simple Python script to fetch and display recent public GitHub activity (like pushes, stars, forks, etc) for a given username.
+___
 
 Requirements : requirements.txt
 
